@@ -1,0 +1,3 @@
+# handshake-helper
+
+When browsing for jobs on Handshake, it can be a pain to have to scroll through a long job posting looking for that one sentence or two containing details like graduation date requirement (the filtering provided by Handshake isn't always accurate), whether US citizenship is required, and so on. So many words! When I open a job posting on Handshake, clicking on this extension immediately finds and displays the sentences in the job description containing these keywords.
